@@ -10,19 +10,31 @@
 
 ### 1.1. **Ajout d'un nouveau contact**
 
-Pour ajouter un nouveau contact, allez dans "**Jetpack CRM**" > "**Contacts**" > "**Ajouter un contact**".
+Pour ajouter un nouveau contact, allez dans "**Jetpack CRM**" > "**Contacts**" > "**Add New Contact**".
 
 ### 1.2. **Remplissage des informations du contact**
 
 Remplissez les informations du contact (type de contact, nom de l'entreprise, nom, prénom, e-mail, téléphone, etc.).
 
-### 1.3. **Ajout d'étiquettes**
+### 1.3. **Ajouter un status du contact**
 
-Ajoutez des étiquettes pour organiser vos contacts (par exemple, lead, prospect, client, lead mort, prospect mort).
+Le champ "**Status**" est utile pour indiquer le rapport que votre entreprise a avec ce contact. S'agit-il d'un lead ? D'un customer ou autre...
 
-### 1.4. **Enregistrement du nouveau contact**
+### 1.4. **Ajout de Tags**
 
-Cliquez sur "**Ajouter contact**" pour enregistrer le nouveau contact.
+Ajoutez des "**Tag**" pour organiser vos contacts et ajouter des informations supplémentaires.
+
+### 1.5. **Réseaux sociaux**
+
+Pour aller plus loin, vous pouvez ajouter les réseaux sociaux du contact.
+
+### 1.6. **Entreprise**
+
+Un contact peut être lié à une entreprise pou regrouper les différents contacts d'une même entitée.
+
+### 1.7. **Enregistrement du nouveau contact**
+
+Cliquez sur "**Save**" pour enregistrer le nouveau contact.
 
 &nbsp;
 
@@ -36,15 +48,15 @@ Allez dans "**Jetpack CRM**" > "**Contacts**" et cliquez sur le contact pour leq
 
 ### 2.2. **Accès au journal**
 
-Dans la fiche du contact, cliquez sur l'onglet "**Journal**".
+Dans la fiche du contact, cliquez sur le menu déroulant "**Contact Action**".
 
 ### 2.3. **Ajout d'une entrée au journal**
 
-Cliquez sur "**Ajouter une entrée au journal**" et sélectionnez le type d'entrée (appel, e-mail, etc.).
+Cliquez sur "**Add log**" et sélectionnez le type d'entrée (appel, e-mail, etc.).
 
 ### 2.4. **Remplissage des informations pertinentes**
 
-Remplissez les informations pertinentes (date, commentaire, réponse, etc.) et cliquez sur "**Ajouter l'entrée au journal**".
+Remplissez les informations pertinentes (commentaire, etc.) et cliquez sur "**Save Log**".
 
 &nbsp;
 
@@ -54,7 +66,9 @@ Pour gérer les rappels d'actions sur les contacts, utilisez la fonction "**Tâc
 
 ### 3.1. **Ajout d'une tâche**
 
-Allez dans "**Jetpack CRM**" > "**Tâches**" > "**Ajouter une tâche**".
+Allez dans "**Jetpack CRM**" > "**Task Scheduler**" > "**Add New Task**".
+
+Vous pouvez passer par la fiche d'un contact directement.
 
 ### 3.2. **Sélection du contact concerné**
 
@@ -62,11 +76,11 @@ Sélectionnez le contact concerné et définissez la date d'échéance du rappel
 
 ### 3.3. **Ajout de notes**
 
-Ajoutez des notes (facultatives) et cliquez sur "**Ajouter la tâche**".
+Ajoutez des notes et cliquez sur "**Save Task**".
 
 ### 3.4. **Visualisation et gestion des tâches**
 
-Les tâches en attente et terminées peuvent être vues et gérées dans "**Jetpack CRM**" > "**Tâches**".
+Les tâches en attente et terminées peuvent être vues et gérées dans "**Jetpack CRM**" > "**Task Scheduler**".
 
 &nbsp;
 
@@ -76,7 +90,7 @@ Le tableau de bord **Jetpack CRM** affiche un aperçu des informations important
 
 ### 4.1. **Affichage des informations clés**
 
-Allez dans "**Jetpack CRM**" > "**Tableau de bord**" pour afficher les informations clés.
+Allez dans "**Jetpack CRM**" > "**Dashboard**" pour afficher les informations clés.
 
 ### 4.2. **Tableau de bord**
 
@@ -92,7 +106,7 @@ Il affiche également des statistiques choisies et des actions rapides pour acc�
 
 ### 5.1. **Exportation de contacts**
 
-Allez dans "**Jetpack CRM**" > "**Contacts**" > "**Exporter des contacts**".
+Dans le menu du haut, allez dans le menu déroulant ""**Contacts**" > "**Export**".
 
 Sélectionnez les critères d'exportation souhaités.
 
@@ -100,7 +114,7 @@ Cliquez sur "Exporter les contacts" et un fichier CSV sera ensuite téléchargé
 
 ### 5.2. **Importation de contacts**
 
-Allez dans "**Jetpack CRM**" > "**Contacts**" > "**Importer des contacts**".
+Dans le menu du haut, allez dans le menu déroulant ""**Contacts**" > "**Import**".
 
 Téléchargez le fichier CSV contenant les contacts.
 
@@ -114,15 +128,15 @@ Suivez les instructions qui s'affichent ensuite à l'écran pour importer les co
 
 ### 6.1. **Ajout d'utilisateurs CRM**
 
-Allez dans "**Jetpack CRM**" > "**Réglages**" > "**Utilisateurs CRM**".
+Allez dans le menu du haut, le ménu déroulant lié à votre image de profil "**CRM Admin**" > "**Team**".
 
-Cliquez sur "Ajouter un utilisateur".
+Cliquez sur "**Add New Team Member**".
 
 Entrez les informations de l'utilisateur et attribuez-lui un rôle.
 
 ### 6.2. **Modification des rôles et des permissions**
 
-Allez dans "**Jetpack CRM**" > "**Réglages**" > "**Utilisateurs CRM**".
+Allez dans le menu du haut, le ménu déroulant lié à votre image de profil "**CRM Admin**" > "**Team**".
 
 Cliquez sur l'utilisateur que vous souhaitez modifier.
 
@@ -144,7 +158,7 @@ Installez l'extension.
 
 ### 7.2. **Personnalisation des paramètres**
 
-Allez dans "**Jetpack CRM**" > "**Réglages**".
+Allez dans "**Jetpack CRM**" > "**CRM Settings**".
 
 Modifiez les paramètres du CRM à votre guise, tels que les informations de l'entreprise, les e-mails, les devis, les factures, etc.
 
@@ -158,15 +172,15 @@ Dans cette section, nous allons présenter deux cas concrets d'utilisation de **
 
 Supposons que vous ayez un lead, Marie Dupont, qui a montré de l'intérêt pour votre produit. Vous avez déjà ajouté Marie à **Jetpack CRM** en tant que lead. Voici comment vous pouvez gérer la relation avec Marie tout au long du processus de vente :
 
-- Allez dans "**Jetpack CRM**" > "Contacts" et recherchez Marie Dupont dans la liste des contacts.
+- Depuis l'Administration, allez dans "**Contacts**" et recherchez Marie Dupont dans la liste des contacts.
 
 - Cliquez sur son nom pour accéder à sa fiche contact.
 
-- Dans la fiche contact de Marie, ajoutez une nouvelle action pour envoyer un e-mail de présentation de votre produit. Cela convertira automatiquement Marie en prospect.
+- Dans la fiche contact de Marie, cliquez sur "**Edit Contact**".
 
-- Lorsque Marie répond à votre e-mail et demande un devis, ajoutez une autre action pour envoyer le devis et définissez un rappel pour suivre cette action dans quelques jours.
+- Sélectionnez dans "**Status**" le rang que vous souhaitez attriuber à votre contact.
 
-- Si Marie accepte le devis et effectue un achat, ajoutez une dernière action pour enregistrer la vente et changez le statut de Marie en client.
+- Cliquez sur "**Save**"
 
 &nbsp;
 
@@ -174,11 +188,11 @@ Supposons que vous ayez un lead, Marie Dupont, qui a montré de l'intérêt pour
 
 Supposons que vous ayez un prospect, Paul Martin, qui est intéressé par votre service, mais qui a besoin de temps pour prendre une décision. Voici comment vous pouvez utiliser **Jetpack CRM** pour gérer les rappels et les actions pour Paul :
 
-- Allez dans "**Jetpack CRM**" > "Contacts" et recherchez Paul Martin dans la liste des contacts.
+- Depuis l'Administration, allez dans "**Contacts**" et recherchez Paul Martin dans la liste des contacts.
 
 - Cliquez sur son nom pour accéder à sa fiche contact.
 
-- Dans la fiche contact de Paul, ajoutez une nouvelle action pour lui envoyer des informations supplémentaires sur votre service et définissez un rappel pour suivre cette action dans une semaine.
+- Dans la fiche contact de Paul, ajoutez une nouvelle action pour lui envoyer des informations supplémentaires sur votre service et définissez un rappel.
 
 - Lorsque le rappel apparaît sur votre tableau de bord, vérifiez si Paul a répondu. Si ce n'est pas le cas, ajoutez une autre action pour envoyer un e-mail de suivi et définissez un nouveau rappel.
 
