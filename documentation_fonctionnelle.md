@@ -10,7 +10,7 @@
 
 ### 1.1. **Ajout d'un nouveau contact**
 
-Pour ajouter un nouveau contact, allez dans "**Jetpack CRM**" > "**Contacts**" > "**Add New Contact**".
+Pour ajouter un nouveau contact, allez dans l'administration,  "**Contacts**" > "**Add New Contact**".
 
 ### 1.2. **Remplissage des informations du contact**
 
@@ -38,61 +38,87 @@ Cliquez sur "**Save**" pour enregistrer le nouveau contact.
 
 &nbsp;
 
-## **2. Gestion des actions**
+## **2. Gestion des entreprises**
+
+**Jetpack CRM** vous permet également d'ajouter des fiches d'entreprises pour les liers avec des contacts ensuite.
+
+### 2.1. **Ajout d'une nouvelle entreprise**
+
+Pour ajouter une nouvelle entreprise, allez dans l'administration et ""**Companies**" > "**Add New Company**".
+
+### 2.2. **Remplissage des informations du contact**
+
+Remplissez les informations de l'entreprise.
+
+### 2.3. **Ajouter un status à l'entreprise**
+
+Le champ "**Status**" se trouve sur la droite et est utile pour indiquer le rapport que votre entreprise a avec celle-ci.
+
+### 2.4. **Ajout de Tags**
+
+Ajoutez des "**Tag**" pour organiser vos entreprises comme vos contacts.
+
+### 2.7. **Enregistrement**
+
+Cliquez sur "**Save Company**" pour enregistrer.
+
+&nbsp;
+
+## **3. Gestion des actions**
 
 Pour gérer les actions (appels, e-mails, etc.) associées à chaque contact, utilisez la fonction "**Journal**" de **Jetpack CRM**.
 
-### 2.1. **Ajout d'une action**
+### 3.1. **Ajout d'une action**
 
-Allez dans "**Jetpack CRM**" > "**Contacts**" et cliquez sur le contact pour lequel vous souhaitez ajouter une action.
+Allez dans l'administration, "**Contacts**" et cliquez sur le contact pour lequel vous souhaitez ajouter une action.
 
-### 2.2. **Accès au journal**
+### 3.2. **Accès au journal**
 
 Dans la fiche du contact, cliquez sur le menu déroulant "**Contact Action**".
 
-### 2.3. **Ajout d'une entrée au journal**
+### 3.3. **Ajout d'une entrée au journal**
 
 Cliquez sur "**Add log**" et sélectionnez le type d'entrée (appel, e-mail, etc.).
 
-### 2.4. **Remplissage des informations pertinentes**
+### 3.4. **Remplissage des informations pertinentes**
 
 Remplissez les informations pertinentes (commentaire, etc.) et cliquez sur "**Save Log**".
 
 &nbsp;
 
-## **3. Gestion des rappels**
+## **4. Gestion des rappels**
 
 Pour gérer les rappels d'actions sur les contacts, utilisez la fonction "**Tâches**" de **Jetpack CRM**.
 
-### 3.1. **Ajout d'une tâche**
+### 4.1. **Ajout d'une tâche**
 
-Allez dans "**Jetpack CRM**" > "**Task Scheduler**" > "**Add New Task**".
+Allez dans l'administration, "**Task Scheduler**" > "**Add New Task**".
 
 Vous pouvez passer par la fiche d'un contact directement.
 
-### 3.2. **Sélection du contact concerné**
+### 4.2. **Sélection du contact concerné**
 
 Sélectionnez le contact concerné et définissez la date d'échéance du rappel.
 
-### 3.3. **Ajout de notes**
+### 4.3. **Ajout de notes**
 
 Ajoutez des notes et cliquez sur "**Save Task**".
 
-### 3.4. **Visualisation et gestion des tâches**
+### 4.4. **Visualisation et gestion des tâches**
 
 Les tâches en attente et terminées peuvent être vues et gérées dans "**Jetpack CRM**" > "**Task Scheduler**".
 
 &nbsp;
 
-## **4. Tableau de bord et rapports**
+## **5. Tableau de bord et rapports**
 
 Le tableau de bord **Jetpack CRM** affiche un aperçu des informations importantes sur vos contacts, vos actions et vos rappels.
 
-### 4.1. **Affichage des informations clés**
+### 5.1. **Affichage des informations clés**
 
 Allez dans "**Jetpack CRM**" > "**Dashboard**" pour afficher les informations clés.
 
-### 4.2. **Tableau de bord**
+### 5.2. **Tableau de bord**
 
 Le tableau de bord de **Jetpack CRM** comprend les informations les plus importantes concernant votre entreprise et les actions à mener.
 
@@ -100,11 +126,11 @@ Il affiche également des statistiques choisies et des actions rapides pour acc�
 
 &nbsp;
 
-## **5. Importation et exportation de contacts**
+## **6. Importation et exportation de contacts**
 
 **Jetpack CRM** permet aux utilisateurs d'importer et d'exporter des contacts à partir de **fichiers CSV**. Voici les étapes à suivre :
 
-### 5.1. **Exportation de contacts**
+### 6.1. **Exportation de contacts**
 
 Dans le menu du haut, allez dans le menu déroulant ""**Contacts**" > "**Export**".
 
@@ -112,7 +138,7 @@ Sélectionnez les critères d'exportation souhaités.
 
 Cliquez sur "Exporter les contacts" et un fichier CSV sera ensuite téléchargé.
 
-### 5.2. **Importation de contacts**
+### 6.2. **Importation de contacts**
 
 Dans le menu du haut, allez dans le menu déroulant ""**Contacts**" > "**Import**".
 
@@ -122,11 +148,11 @@ Suivez les instructions qui s'affichent ensuite à l'écran pour importer les co
 
 &nbsp;
 
-## **6. Gestion des utilisateurs et des rôles**
+## **7. Gestion des utilisateurs et des rôles**
 
 **Jetpack CRM** permet aux utilisateurs de gérer les utilisateurs et les rôles associés dans le CRM. Voici les étapes à suivre :
 
-### 6.1. **Ajout d'utilisateurs CRM**
+### 7.1. **Ajout d'utilisateurs CRM**
 
 Allez dans le menu du haut, le ménu déroulant lié à votre image de profil "**CRM Admin**" > "**Team**".
 
@@ -134,7 +160,7 @@ Cliquez sur "**Add New Team Member**".
 
 Entrez les informations de l'utilisateur et attribuez-lui un rôle.
 
-### 6.2. **Modification des rôles et des permissions**
+### 7.2. **Modification des rôles et des permissions**
 
 Allez dans le menu du haut, le ménu déroulant lié à votre image de profil "**CRM Admin**" > "**Team**".
 
@@ -144,11 +170,11 @@ Modifiez son rôle ou ses permissions comme vous le souhaitez.
 
 &nbsp;
 
-## **7. Personnalisation et extensions**
+## **8. Personnalisation et extensions**
 
 **Jetpack CRM** propose des extensions et des personnalisations pour adapter le CRM à vos besoins spécifiques. Voici les étapes à suivre :
 
-### 7.1. **Installation d'extensions**
+### 8.1. **Installation d'extensions**
 
 Allez dans "**Jetpack CRM**" > "**Extensions**".
 
@@ -156,11 +182,25 @@ Parcourez les extensions proposées et sélectionnez celle qui correspond à vos
 
 Installez l'extension.
 
-### 7.2. **Personnalisation des paramètres**
+### 8.2. **Personnalisation des paramètres**
 
 Allez dans "**Jetpack CRM**" > "**CRM Settings**".
 
 Modifiez les paramètres du CRM à votre guise, tels que les informations de l'entreprise, les e-mails, les devis, les factures, etc.
+
+### 8.3. **Ajout de champs**
+
+Il peut être utile pour certains de vos contacts, ou encore vos entreprises, d'avoir des champs supplémentaires pour remplir avec des informations importantes. Prenons l'exemple du SIRET d'une entreprise. Pour ajouter un champ personalisé, suivez les indications ci-dessous.
+
+Allez dans "**Jetpack CRM**" > "**CRM Settings**".
+
+Dans la nouvelle page, dans le second menu à gauche "**CRM Settings**", cliquez sur "**Custom Fields**"
+
+Vous pouvez ajouter des champs sur tous vos objets, que ce soit les adresses ou les contacts. Ici on va cliquez sur "**+ Add Custom Field**" au niveau de "**Company Custom Fields**"
+
+Ajouter un nom pour votre champ, par exemple SIRET, un placeholder qui va s'afficher et le type de champ, ici "**Text**" suffit emplement.
+
+Une fois enregistré, le nouveau champ sera affiché sur la page des entreprises, vous pouvez donc ajouter une valeur pour les existants, idem pour les ajouts.
 
 &nbsp;
 
