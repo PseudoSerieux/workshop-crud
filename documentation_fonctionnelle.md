@@ -1,12 +1,16 @@
 # **Fonctionnalités de Jetpack CRM**
 
-**Jetpack CRM** est un plugin de Wordpress destiné à la gestion de la relation client (CRM) qui permet de gérer les contacts, les actions, les rappels, les utilisateurs et les extensions personnalisées. Voici un aperçu des fonctionnalités de **Jetpack CRM** :
+**Jetpack CRM** est un plugin de Wordpress destiné à la gestion de la relation client (CRM) permettant de gérer les contacts, les actions, les rappels, les utilisateurs et les extensions personnalisées. Vous retrouverez dans cette documentation un aperçu des fonctionnalités de **Jetpack CRM** ainsi que des cas d'utilisations.
 
+&nbsp;
+<p align="center">
+  <img src="https://jetpackcrm.com/wp-content/uploads/2021/12/Jetpack-CRM-stacked@2x.png" alt="JetPack CRM">
+</p>
 &nbsp;
 
 ## **1. Gestion des contacts**
 
-**Jetpack CRM** vous permet de gérer les contacts, les leads, les prospects et les clients en les ajoutant comme contacts dans le CRM.
+Comme cité au-dessus, **Jetpack CRM** vous permet de gérer les contacts, les leads, les prospects et les clients en les ajoutant comme contacts dans le CRM.
 
 ### 1.1. **Ajout d'un nouveau contact**
 
@@ -14,15 +18,16 @@ Pour ajouter un nouveau contact, allez dans l'administration,  "**Contacts**" > 
 
 ### 1.2. **Remplissage des informations du contact**
 
-Remplissez les informations du contact (type de contact, nom de l'entreprise, nom, prénom, e-mail, téléphone, etc.).
+Vous pouvez remplir les informations du contact (type de contact, nom de l'entreprise affiliée, nom, prénom, e-mail, téléphone, etc.).
 
 ### 1.3. **Ajouter un status du contact**
+S'agit-il d'un lead ? D'un client ou autre... ?
 
-Le champ "**Status**" est utile pour indiquer le rapport que votre entreprise a avec ce contact. S'agit-il d'un lead ? D'un customer ou autre...
+Le champ "**Status**" est utile pour indiquer le rapport que votre entreprise a avec ce contact. 
 
 ### 1.4. **Ajout de Tags**
 
-Ajoutez des "**Tag**" pour organiser vos contacts et ajouter des informations supplémentaires.
+Ajoutez des "**Tag**" permet d'organiser vos contacts et d'ajouter des informations supplémentaires.
 
 ### 1.5. **Réseaux sociaux**
 
@@ -30,7 +35,7 @@ Pour aller plus loin, vous pouvez ajouter les réseaux sociaux du contact.
 
 ### 1.6. **Entreprise**
 
-Un contact peut être lié à une entreprise pou regrouper les différents contacts d'une même entitée.
+Un contact peut être lié à une entreprise pour regrouper les différents contacts d'une même entité.
 
 ### 1.7. **Enregistrement du nouveau contact**
 
@@ -40,11 +45,11 @@ Cliquez sur "**Save**" pour enregistrer le nouveau contact.
 
 ## **2. Gestion des entreprises**
 
-**Jetpack CRM** vous permet également d'ajouter des fiches d'entreprises pour les liers avec des contacts ensuite.
+**Jetpack CRM** vous permet également d'ajouter des fiches d'entreprises pour les lier avec des contacts par la suite.
 
 ### 2.1. **Ajout d'une nouvelle entreprise**
 
-Pour ajouter une nouvelle entreprise, allez dans l'administration et ""**Companies**" > "**Add New Company**".
+Pour ajouter une nouvelle entreprise, allez dans l'administration et l'onglet ""**Companies**" > "**Add New Company**".
 
 ### 2.2. **Remplissage des informations du contact**
 
@@ -106,7 +111,7 @@ Ajoutez des notes et cliquez sur "**Save Task**".
 
 ### 4.4. **Visualisation et gestion des tâches**
 
-Les tâches en attente et terminées peuvent être vues et gérées dans "**Jetpack CRM**" > "**Task Scheduler**".
+Les tâches en attente et celles qui sont terminées peuvent être vues et gérées dans "**Jetpack CRM**" > "**Task Scheduler**".
 
 &nbsp;
 
@@ -207,6 +212,10 @@ Une fois enregistré, le nouveau champ sera affiché sur la page des entreprises
 # **Cas d'utilisation**
 
 Dans cette section, nous allons présenter deux cas concrets d'utilisation de **Jetpack CRM** pour illustrer comment il peut être utilisé pour gérer efficacement les contacts, les prospects et les clients.
+
+<p align="center">
+  <img src="https://png.pngitem.com/pimgs/s/144-1444358_ui-ux-designing-in-pune-ui-ux-design.png" alt="JetPack CRM">
+</p>
 
 ## **Cas d'utilisation 1 : Conversion d'un lead en prospect et en client**
 
