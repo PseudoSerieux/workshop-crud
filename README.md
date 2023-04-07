@@ -88,6 +88,9 @@ Lorsque le plugin est installé, il reste des réglages à mettre en place pour 
 
 - Revenez à l'ajout d'un contact et normalement, vous pouvez lier votre contact avec une entreprise
 
+Il est également possible de désactiver (et masquer) des fonctionnalités qui ne sont pas forcément nécessaire pour le client, afin de réduire la charge d'informations surperflues.
+<br> Pour cela il faut appuyer sur le menu "**JetPack CRM**" > "Core Modules", il faut ensuite passer sa souris sur les éléments qu'il souhaite désactiver ou réactiver.
+
 ## Design
 
 De nombreux plugin existe pour modifier l'aspect graphique de l'interface. À vous de choisir celui qui vous correspond le mieux.
