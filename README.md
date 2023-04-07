@@ -2,7 +2,7 @@
 
 Le projet utilise la dernière version de WORDPRESS (6.2)
 
-## Landing Page de présentation
+## Landing Page de présentation de la solution
 
 Lien d'accès à la Landing Page : https://pseudoserieux.github.io/workshop-crud.github.io/
 
@@ -24,7 +24,7 @@ Avant toute chose, vous devez installer une instance Wordpress. La plupart des h
 
 ## Extension - Jetpack CRM
 
-Voici les instructions quant à l'installation du plugin Jetpack CRM sur wordpress. Pour ceci, vous devez avoir une installation complète et un Wordpress qui est lancé.
+Voici les instructions quant à l'installation du plugin Jetpack CRM sur Wordpress. Pour ceci, vous devez avoir une installation complète et un Wordpress qui est lancé.
 
 Pour Wordpress, ne prenez que des extensions de confiance ! Ou mis à jour récemment pour éviter des failles de sécurités
 
@@ -70,7 +70,7 @@ Lorsque le plugin est installé, il reste des réglages à mettre en place pour 
 
 ---
 
-- Lors de l'ajoute d'un Contacts, sur le formulaire, si vous souhaitez lier avec une entreprise pour la première fois, vous ne pourrez pas sans une petite configuration
+- Lors de l'ajoute d'un contact sur le formulaire, si vous souhaitez lier avec une entreprise pour la première fois, vous ne pourrez pas le faire sans effectuer une petite configuration
 
 - Dans le formulaire d'ajout, sur le bloc "Company", un message en rouge s'affiche "You are using Plain Permalinks. Please set your permalinks to %postname% by visiting here", cliquez sur le "here"
 
@@ -78,7 +78,7 @@ Lorsque le plugin est installé, il reste des réglages à mettre en place pour 
 
 - Cliquez sur enregistrer les modifications
 
-- Revenez à l'ajout d'un contact, normalement, vous pouvez lier avec une entreprise
+- Revenez à l'ajout d'un contact et normalement, vous pouvez lier votre contact avec une entreprise
 
 ## Design
 
@@ -96,13 +96,13 @@ De nombreux plugin existe pour modifier l'aspect graphique de l'interface. À vo
 
 Mon interface est en anglais ! Que faire ?
 
-Si vous souhaitez traduire votre interface, vous pouvez suivre ce point rapide sur l'installation d'un plugin de traduction. Jetpack CRM n'est pas encore traduit à 100% en FR. La traduction est open-source et peut donc être complété par la communauté.
+Si vous souhaitez traduire votre interface, vous pouvez suivre ce point rapide sur l'installation d'un plugin de traduction. Jetpack CRM n'est pas encore traduit à 100% en français. La traduction est open-source et peut donc être complétée par la communauté.
 
-- Rendez-vous sur le lien /wp-admin/plugin-install.php de votre Wordpress, il s'agit de la page d'installation des plugins
+- Rendez-vous sur le lien /wp-admin/plugin-install.php de votre Wordpress, qui est la page d'installation des plugins
 
 - Recherchez "Loco Translate", puis "Installer maintenant" et "Activer"
 
-- Etape non obligatoire : Répétez l'action pour l'extension "Automatic Translate Addon For Loco Translate". Non obligatoire car "Loco Translate" propose des solutions de traduction automatique mais payant (ou essai gratuit). Celui-ci propose une solution gratuite mais peu fiable
+- Etape facultative : Répétez l'action pour l'extension "Automatic Translate Addon For Loco Translate". Cette étape est non obligatoire car "Loco Translate" propose des solutions de traduction automatique mais reste un plugin payant (ou à essai gratuit). A contrario, l'extension "Automatic Translate Addon For Loco Translate" propose une solution gratuite mais peu fiable
 
 - Un item a été ajouté dans le menu d'administration. Pour traduire : "Loco Translate > Extensions > Jetpack CRM > Nouvelle langue". Sélectionner le Français et laissez par défaut le reste
 
@@ -110,10 +110,10 @@ Si vous souhaitez traduire votre interface, vous pouvez suivre ce point rapide s
 
 ### Conseils
 
-- Gardez votre Wordpress et vos extensions à jour
+- Gardez votre Wordpress et vos extensions à jour afin de limiter les risques lié au piratage.
 
-- Attention aux extensions que vous installez. Plus vous avez d'extensions, plus le risque de faille est grand
+- Attention aux extensions que vous installez. Plus vous avez d'extensions, plus le risque de failles de sécurité est grand.
 
-- Installez des plugins de sécurité (pour changer le lien de la page de login, bloquer les tentatives de connexion, ajouter la double auth)
+- Installez des plugins de sécurité (pour changer le lien de la page de login, bloquer les tentatives de connexion, ajouter la double auth).
 
-- Installez un système de backup pour pouvoir récupérer votre site
+- Installez un système de backup pour pouvoir récupérer votre site. Il existe plusieurs solution sur internet et même des extensions de sauvegarde gratuite sur Wordpress comme "UpdraftPlus" très réputé dans le domaine.
