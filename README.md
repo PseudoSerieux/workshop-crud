@@ -12,11 +12,11 @@ Avant toute chose, vous devez installer une instance Wordpress. La plupart des h
 
 - Installer Wordpress avec la méthode de votre choix.
 
-(Téléchargez les fichiers, Docker compose)
+(Vous pouvez télécharger les fichiers ou bien utiliser Docker compose)
 
 - Installer un système de base de données
 
-(MySQL)
+(Principalement en langage MySQL)
 
 - Lancer le site
 
