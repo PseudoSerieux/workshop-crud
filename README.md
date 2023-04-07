@@ -1,6 +1,10 @@
-# Installation
+# Installation de notre projet
 
 Le projet utilise la dernière version de WORDPRESS (6.2)
+
+<p align="center">
+  <img src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" alt="Wordpress Logo">
+</p>
 
 ## Landing Page de présentation de la solution
 
@@ -12,7 +16,7 @@ Avant toute chose, vous devez installer une instance Wordpress. La plupart des h
 
 - Installer Wordpress avec la méthode de votre choix.
 
-(Vous pouvez télécharger les fichiers ou bien utiliser Docker compose)
+(Vous pouvez [télécharger les fichiers](https://wordpress.com/read) ou bien utiliser [Docker compose](https://zatoufly.fr/installer-wordpress-avec-docker-compose/))
 
 - Installer un système de base de données
 
@@ -23,6 +27,10 @@ Avant toute chose, vous devez installer une instance Wordpress. La plupart des h
 - Suivez les indications d'installation (Les réglages sont à faire en fonction de votre projet)
 
 ## Extension - Jetpack CRM
+
+<p align="center">
+  <img src="https://jetpackcrm.com/wp-content/uploads/2021/12/Jetpack-CRM-stacked@2x.png" alt="JetPack CRM">
+</p>
 
 Voici les instructions quant à l'installation du plugin Jetpack CRM sur Wordpress. Pour ceci, vous devez avoir une installation complète et un Wordpress qui est lancé.
 
@@ -36,7 +44,7 @@ Pour Wordpress, ne prenez que des extensions de confiance ! Ou mis à jour réce
 
 Une fois le plugin activé, une nouvelle page s'ouvre pour lancer la configuration d'installation du plugin.
 
-- L'étape "Essentials" est à configurer en fonction de votre client. Le seul point à réfléchir est le "Menu Style", à vous de voir si vous préférez n'avoir que les options du CRM ("Jetpack CRM Override"), un item de menu Jetpack ("Jetpack CRM Slimline") ou tous les items de menu aux mêmes niveaux ("Jetpack CRM & Wordpress"). Le plus simple, pour un client qui n'a pas besoin de site front-end (vitrine), mais juste du CRM c'est de prendre "Jetpack CRM Override". Une fois finis, cliquez sur "Next".
+- L'étape "Essentials" est à configurer en fonction de votre client. Le seul point à réfléchir est le "Menu Style", à vous de voir si vous préférez n'avoir que les options du CRM ("Jetpack CRM Override"), un item de menu Jetpack ("Jetpack CRM Slimline") ou tous les items de menu aux mêmes niveaux ("Jetpack CRM & Wordpress"). <br> Le plus simple pour un client qui n'a pas besoin de site front-end (vitrine),mais juste du CRM, c'est de prendre "Jetpack CRM Override". <br> Une fois finis, cliquez sur "Next".
 
 - L'étape "Your Contats" permet de connecter votre CRM vers d'autres systèmes pour importer des contact. Si pas besoin, vous pouvez cliquer sur "Next".
 
@@ -109,6 +117,10 @@ Si vous souhaitez traduire votre interface, vous pouvez suivre ce point rapide s
 - Un tableau va s'ouvrir dans lequel vous pouvez traduire tous les textes du plugin
 
 ### Conseils
+
+<p align="center">
+  <img src="https://thehubbackend.com/media/30215-glossary-catthumb-hr-careers.png" alt="Conseil">
+</p>
 
 - Gardez votre Wordpress et vos extensions à jour afin de limiter les risques lié au piratage.
 
